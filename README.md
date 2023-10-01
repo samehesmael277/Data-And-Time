@@ -2,7 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/samehesmael277/Data-And-Time?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/samehesmael277/Data-And-Time?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/samehesmael277/Data-And-Time?style=flat-square)
 
 ## Overview
 
